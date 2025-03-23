@@ -49,7 +49,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BelleJohn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BelleJohn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=BelleJohn&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleJohn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

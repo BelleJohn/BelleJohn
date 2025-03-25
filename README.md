@@ -1,5 +1,5 @@
 # 💫  Hihi, I'm Yun! 😆 Weeee--:
-👩🏻‍💻 Unemployed Research Engineer 😂 sharing about my journey and learnings in tech.<br>
+👩🏻‍💻 Unemployed Research Engineer exploring **life** and see how my future unfolds.😌 <br>
 🏃🏻‍♀ Currently working on **GitHub pages**.<br>
 👀 Interested in **signal processing, computer vision, machine learning, and prosthesis**.<br>
 🌱 I’m currently learning **Reinforcement Learning** and German (A2 -> B1) 🥲.<br>

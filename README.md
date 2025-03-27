@@ -53,7 +53,6 @@
 # 🚀 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BelleJohn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleJohn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BelleJohn&theme=github_dark&hide_border=false)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BelleJohn/BelleJohn/refs/heads/output/github-snake-dark.svg" />

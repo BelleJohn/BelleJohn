@@ -1,10 +1,10 @@
 # 💫  Hihi, I'm Yun! 😆 Weeee--:
-👩🏻‍💻 Unemployed Research Engineer exploring **life** and see how my future unfolds.😌 <br>
-🏃🏻‍♀ Currently working on **GitHub pages**.<br>
-👀 Interested in **signal processing, computer vision, machine learning, and prosthesis**.<br>
-🌱 I’m currently learning **Reinforcement Learning** and German (A2 -> B1) 🥲.<br>
-🤝 I’m looking to collaborate on **EMG detection combined with Gym**.<br>
-⚒️ I’m looking for help with **Gymnasium-Robotics**.<br>
+👩🏻‍💻 **Research Engineer** exploring new opportunities and building my future. <br>
+🏃🏻‍♀ Currently working on **my GitHub** with updated versions of past projects, keeping previous working places confidentiality intact while demonstrating my skills. <br>
+👀 Passionate about **signal processing, image processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
+🌱 Currently learning **Reinforcement Learning, Gymnasium-Robotics, and progressing in German (A2 → B1)**. 🥲 <br>
+🤝 Open to collaboration on **EMG detection and Gym integration**. <br>
+⚒️ Seeking guidance in **Gymnasium-Robotics**. <br>
 📫 Reach me via yunchiang.belle@gmail.com
 
 

@@ -9,6 +9,9 @@
 
 ## 💡 Personal Philosophy  
 
+- **No one can compete with you on being you.** </br>
+     --Naval Ravikant
+  
 - **Do fewer things _at once_** – Focus deeply on one thing at a time.  
 - **Work at a natural pace** – Progress sustainably without rushing.  
 - **Obsess over quality** – Prioritize craftsmanship and meaningful output. </br>

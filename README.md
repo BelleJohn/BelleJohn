@@ -2,9 +2,9 @@
 👩🏻‍💻 **Research Engineer** exploring new opportunities and building my future. <br>
 🏃🏻‍♀ Currently working on **my GitHub** with updated versions of past projects, keeping the previous working places confidentiality intact while demonstrating my skills. <br>
 👀 Passionate about **signal processing, image processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
-🌱 Currently learning **Reinforcement Learning, Gymnasium-Robotics, and progressing in German (A2 → B1)**. 🥲 <br>
-🤝 Open to collaboration on **EMG detection and Gym integration**. <br>
-⚒️ Seeking guidance in **Gymnasium-Robotics**. <br>
+🌱 Currently learning **diffusion-based and GANs-based image generation models (review), and progressing in German (A2 → B1)**. 🥲 <br>
+🤝 Open to collaboration on **EMG detection and Gym/OpenSim integration**. <br>
+⚒️ Seeking guidance in **GAN EMG**. <br>
 📫 Reach me via yunchiang.belle@gmail.com
 
 ## 💡 Personal Philosophy  

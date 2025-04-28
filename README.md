@@ -2,7 +2,7 @@
 👩🏻‍💻 **Research Engineer** exploring new opportunities and building my future. <br>
 🏃🏻‍♀ Currently working on **my GitHub** with updated versions of past projects, keeping the previous working places confidentiality intact while demonstrating my skills. <br>
 👀 Passionate about **signal processing, image processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
-🌱 Currently learning **diffusion-based and GANs-based image generation models (review), and progressing in German (A2 → B1)**. 🥲 <br>
+🌱 Currently learning **diffusion-based and GANs-based image generative models (review), and progressing in German (A2 → B1)**.  <br>
 🤝 Open to collaboration on **EMG detection and Gym/OpenSim integration**. <br>
 ⚒️ Seeking guidance in **GAN EMG**. <br>
 📫 Reach me via yunchiang.belle@gmail.com
@@ -16,7 +16,7 @@
 - **Work at a natural pace** – Progress sustainably without rushing.  
 - **Obsess over quality** – Prioritize craftsmanship and meaningful output. </br>
 
-     --Inspired by [this YouTube video](https://www.youtube.com/watch?v=v520wFzpAd0&list=WL&index=14)
+     --Inspired by [Slow Productivity | Cal Newport](https://www.youtube.com/watch?v=v520wFzpAd0&list=WL&index=14)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yun-chiang-belle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yunchiang.belle@gmail.com) 

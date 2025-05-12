@@ -1,10 +1,10 @@
 # 💫  Hihi, I'm Yun! 😆 Weeee--:
 👩🏻‍💻 **Research Engineer** exploring new opportunities and building my future. <br>
-🏃🏻‍♀ Currently working on **my GitHub** with updated versions of past projects, keeping the previous working places confidentiality intact while demonstrating my skills. <br>
-👀 Passionate about **signal processing, image processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
-🌱 Currently learning **diffusion-based and GANs-based image generative models (review), and progressing in German (A2 → B1)**.  <br>
+🏃🏻‍♀ Currently working on **my GitHub** and **BCI_ALVI_challenge** with updated versions of past projects. <br>
+👀 Passionate about **signal processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
+🌱 Currently learning **EMG decoding and progressing in German (A2 → B1)**. <br>
 🤝 Open to collaboration on **EMG detection and Gym/OpenSim integration**. <br>
-⚒️ Seeking guidance in **GAN EMG**. <br>
+⚒️ Seeking guidance in **EMG decoding**. <br>
 📫 Reach me via yunchiang.belle@gmail.com
 
 ## 💡 Personal Philosophy  

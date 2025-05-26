@@ -1,10 +1,9 @@
 # 💫  Hihi, I'm Yun! 😆 Weeee--:
 👩🏻‍💻 **Research Engineer** exploring new opportunities and building my future. <br>
-🏃🏻‍♀ Currently working on **my GitHub** and **BCI_ALVI_challenge** with updated versions of past projects. <br>
-👀 Passionate about **signal processing, data analysis, computer vision, machine learning, and prosthetics**. <br>
-🌱 Currently learning **EMG decoding and progressing in German (A2 → B1)**. <br>
+🏃🏻‍♀ Currently working on **BCI_ALVI_challenge** with the updated version. <br>
+👀 Passionate about **signal processing, data analysis, machine learning, and prosthetics**. <br>
+🌱 Currently learning **EMG decoding and progressing in German (B1 -> pass B1 exam)**. <br>
 🤝 Open to collaboration on **EMG detection and Gym/OpenSim integration**. <br>
-⚒️ Seeking guidance in **EMG decoding**. <br>
 📫 Reach me via yunchiang.belle@gmail.com
 
 ## 💡 Personal Philosophy  
@@ -17,6 +16,16 @@
 - **Obsess over quality** – Prioritize craftsmanship and meaningful output. </br>
 
      --Inspired by [Slow Productivity | Cal Newport](https://www.youtube.com/watch?v=v520wFzpAd0&list=WL&index=14)
+
+## 🗺️ Navigation Roadmap
+| 👥 Audience                  | 🔗 Sections                                      | 📌 Description                                                                                          |
+| ---------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 🧑‍💼 Employers / Recruiters | [Work Experience Demos](https://github.com/BelleJohn/Work-Experience-Demos) | Real-world projects from jobs, internships, and collaborations.       |
+| 📘 Learners / Self-Starters  | [Study Notes & Practice](https://github.com/BelleJohn/Study-Notes-and-Practice) | Personal learning logs, course reviews, and practice code — useful for others learning the same topics. |
+| 🧪 Prosthetics Community     | [Prosthetics Analysis](https://github.com/BelleJohn/Prosthetics-Analysis)   | Comparative studies of prosthetic devices and open questions in research.                           |
+| 🧠 Curious Minds             | [Hobby Space](https://github.com/BelleJohn/Hobby-Space)                     | A space for implementing small coding ideas inspired by papers, courses, or spontaneous curiosity.      |
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yun-chiang-belle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yunchiang.belle@gmail.com) 
